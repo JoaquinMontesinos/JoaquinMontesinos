@@ -13,7 +13,7 @@ As a Telecommunications Engineer currently thriving in the world of data enginee
 - Specialties: Data Engineering, Web Development, SaaS, Automation, AI/ML Integration, B2B Solutions.
 
 ## 🧠 My focus
-- Scaling [https://dataorigin.es/]DataOrigin to empower companies in the B2B event space by leveraging AI-driven data insights for sales prospecting and lead generation.
+- Scaling [DataOrigin](https://dataorigin.es/) to empower companies in the B2B event space by leveraging AI-driven data insights for sales prospecting and lead generation.
 
 ## 🌱 Learning
 - Embracing the philosophy of weekly progress and iteration, to achieve rapid, tangible results.
