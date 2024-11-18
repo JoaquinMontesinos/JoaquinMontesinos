@@ -22,5 +22,5 @@ As a Telecommunications Engineer currently thriving in the world of data enginee
   
 ### 📫 Connect with me
 
-- 🌐 Website: http://www.joaquinmontesinos.github.io/
-- 💼 LinkedIn: https://www.linkedin.com/in/joaquin-montesinos/
+- 🌐 [Website](http://www.joaquinmontesinos.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaquin-montesinos/)
